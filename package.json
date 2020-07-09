@@ -1,0 +1,18 @@
+{
+  "name": "constructnode-assignment",
+  "version": "0.1.0",
+  "description": "Construct a Node package assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nephi Flores",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
